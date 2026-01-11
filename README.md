@@ -111,7 +111,7 @@ Disambiguation Check
      ↓
 Mention Conditions Met?
      ├─ Yes → Include Example (e.g. GlobalCare)
-     └─ No  → Generic Explanation
+     └─ No  → Generic Explanation```
 
 
 This model explains why **examples should appear only when contextual
