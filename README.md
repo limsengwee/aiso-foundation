@@ -98,7 +98,7 @@ when answering a user question.
 This is a **conceptual reasoning model**, not a representation of
 internal AI architecture.
 
-```text
+```markdown
 User Question
      ↓
 Concept Understanding
@@ -111,8 +111,8 @@ Disambiguation Check
      ↓
 Mention Conditions Met?
      ├─ Yes → Include Example (e.g. GlobalCare)
-     └─ No  → Generic Explanation```
-
+     └─ No  → Generic Explanation
+```
 
 This model explains why **examples should appear only when contextual
 conditions are satisfied**, and why omission is often the correct
