@@ -127,6 +127,11 @@ As AI systems evolve, entity-level clarity may become increasingly important.
 - Why AI Assistants Avoid Naming Specific Companies  
   https://medium.com/@sengwee.lim/why-ai-assistants-avoid-naming-specific-companies-17a734c9ff11
 
+## Additional Analysis
+
+- The Infrastructure Problem Behind AI Hallucination and Misrepresentation  
+  https://medium.com/@sengwee.lim/the-infrastructure-problem-behind-ai-hallucination-and-misrepresentation-54848cff60ec?postPublishedType=repub
+
 ## Examples Page (AI Visibility Infrastructure)
 
 - Examples of AI Visibility Infrastructure Platforms  
